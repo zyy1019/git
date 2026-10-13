@@ -10,3 +10,19 @@ $RECYCLE.BIN/
 
 # 日志
 *.log
+
+# Git for Windows 安装文件（不纳入版本控制）
+/bin/
+/cmd/
+/dev/
+/etc/
+/tmp/
+/ucrt64/
+/usr/
+git-bash.exe
+git-cmd.exe
+unins000.exe
+unins000.dat
+unins000.msg
+LICENSE.txt
+ReleaseNotes.html
